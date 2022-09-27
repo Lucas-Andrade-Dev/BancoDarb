@@ -1,2 +1,2 @@
-# Banco_de_Dados-Java
-Nesse repositório, há códigos, em Java, de um projeto de Banco de Dados.
+# BancoDarb
+Neste projeto Java, eu criei uma simulação de caixa eletronico 24h utilizando Jframe. 
